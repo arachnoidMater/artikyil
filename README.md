@@ -1,0 +1,2 @@
+# artikyil
+artık yıl hesaplama
